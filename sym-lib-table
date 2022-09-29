@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "kicad-keyboard-parts")(type "Legacy")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/kicad-keyboard-parts.pretty/Schematic Library/kicad-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "le_chiff_ble-cache")(type "Legacy")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/le_chiff_ble/le_chiff_ble-cache.lib")(options "")(descr ""))
+  (lib (name "MINEW_MS88SF2")(type "Legacy")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/ms88sf2_oreore.pretty/MINEW_MS88SF2.lib")(options "")(descr ""))
+)
