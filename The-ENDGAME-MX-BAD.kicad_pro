@@ -378,10 +378,10 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "../../../../../Applications/KiCad/",
       "specctra_dsn": "",
       "step": "../../../Dropbox/INTERCHANGE/THE ENDGAME/The-ENDGAME-MX-BAD.step",
-      "vrml": "../../../Dropbox/INTERCHANGE/THE ENDGAME/The-ENDGAME-MX-BAD.wrl"
+      "vrml": "../../../Desktop/The-ENDGAME-MX-BAD.wrl"
     },
     "page_layout_descr_file": ""
   },

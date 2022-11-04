@@ -5,4 +5,5 @@
   (lib (name "kicad-keyboard-parts")(type "KiCad")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/kicad-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "ms88sf2_oreore")(type "KiCad")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/ms88sf2_oreore.pretty")(options "")(descr ""))
   (lib (name "other_parts")(type "KiCad")(uri "/Users/Home/Documents/GitHub/LIbrarys/AlbinoZebra-Pretty-Master-Huso-UWU-Lib/le_chiff_ble-main/kicad/other_parts.pretty")(options "")(descr ""))
+  (lib (name "TheENDGAME-MX-BAD")(type "KiCad")(uri "/Users/Home/Documents/GitHub/TheENDGAME-MX-BAD")(options "")(descr ""))
 )
