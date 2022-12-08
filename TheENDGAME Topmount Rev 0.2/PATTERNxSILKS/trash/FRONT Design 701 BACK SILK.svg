@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="BACK" xmlns="http://www.w3.org/2000/svg" width="473.7mm" height="210.01mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1342.79 595.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#New_Pattern);
+      }
+
+      .cls-3 {
+        fill: #fff;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+    <pattern id="New_Pattern" data-name="New Pattern" x="0" y="0" width="96" height="100" patternTransform="translate(-6204.09 -5430.57) scale(.3)" patternUnits="userSpaceOnUse" viewBox="0 0 96 100">
+      <g>
+        <rect class="cls-1" width="96" height="100"/>
+        <circle class="cls-3" cx="144" cy="-50" r="50"/>
+        <circle class="cls-3" cx="48" cy="-50" r="50"/>
+        <circle class="cls-3" cx="-48" cy="-50" r="50"/>
+        <g>
+          <circle class="cls-3" cx="96" cy="-25" r="50"/>
+          <circle class="cls-3" cx="96" cy="-25" r="41"/>
+          <circle class="cls-3" cx="96" cy="-25" r="32"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="-25" r="50"/>
+          <circle class="cls-3" cx="0" cy="-25" r="41"/>
+          <circle class="cls-3" cx="0" cy="-25" r="32"/>
+        </g>
+        <circle class="cls-3" cx="144" cy="0" r="50"/>
+        <g>
+          <circle class="cls-3" cx="48" cy="0" r="50"/>
+          <circle class="cls-3" cx="48" cy="0" r="41"/>
+          <circle class="cls-3" cx="48" cy="0" r="32"/>
+          <circle class="cls-3" cx="48" cy="0" r="23"/>
+          <circle class="cls-3" cx="48" cy="0" r="14"/>
+          <circle class="cls-3" cx="48" cy="0" r="5"/>
+        </g>
+        <circle class="cls-3" cx="-48" cy="0" r="50"/>
+        <g>
+          <circle class="cls-3" cx="96" cy="25" r="50"/>
+          <circle class="cls-3" cx="96" cy="25" r="41"/>
+          <circle class="cls-3" cx="96" cy="25" r="32"/>
+          <circle class="cls-3" cx="96" cy="25" r="23"/>
+          <circle class="cls-3" cx="96" cy="25" r="14"/>
+          <circle class="cls-3" cx="96" cy="25" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="25" r="50"/>
+          <circle class="cls-3" cx="0" cy="25" r="41"/>
+          <circle class="cls-3" cx="0" cy="25" r="32"/>
+          <circle class="cls-3" cx="0" cy="25" r="23"/>
+          <circle class="cls-3" cx="0" cy="25" r="14"/>
+          <circle class="cls-3" cx="0" cy="25" r="5"/>
+        </g>
+        <circle class="cls-3" cx="144" cy="50" r="50"/>
+        <g>
+          <circle class="cls-3" cx="48" cy="50" r="50"/>
+          <circle class="cls-3" cx="48" cy="50" r="41"/>
+          <circle class="cls-3" cx="48" cy="50" r="32"/>
+          <circle class="cls-3" cx="48" cy="50" r="23"/>
+          <circle class="cls-3" cx="48" cy="50" r="14"/>
+          <circle class="cls-3" cx="48" cy="50" r="5"/>
+        </g>
+        <circle class="cls-3" cx="-48" cy="50" r="50"/>
+        <g>
+          <circle class="cls-3" cx="96" cy="75" r="50"/>
+          <circle class="cls-3" cx="96" cy="75" r="41"/>
+          <circle class="cls-3" cx="96" cy="75" r="32"/>
+          <circle class="cls-3" cx="96" cy="75" r="23"/>
+          <circle class="cls-3" cx="96" cy="75" r="14"/>
+          <circle class="cls-3" cx="96" cy="75" r="5"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="75" r="50"/>
+          <circle class="cls-3" cx="0" cy="75" r="41"/>
+          <circle class="cls-3" cx="0" cy="75" r="32"/>
+          <circle class="cls-3" cx="0" cy="75" r="23"/>
+          <circle class="cls-3" cx="0" cy="75" r="14"/>
+          <circle class="cls-3" cx="0" cy="75" r="5"/>
+        </g>
+        <circle class="cls-3" cx="144" cy="100" r="50"/>
+        <g>
+          <circle class="cls-3" cx="48" cy="100" r="50"/>
+          <circle class="cls-3" cx="48" cy="100" r="41"/>
+          <circle class="cls-3" cx="48" cy="100" r="32"/>
+          <circle class="cls-3" cx="48" cy="100" r="23"/>
+          <circle class="cls-3" cx="48" cy="100" r="14"/>
+          <circle class="cls-3" cx="48" cy="100" r="5"/>
+        </g>
+        <circle class="cls-3" cx="-48" cy="100" r="50"/>
+        <g>
+          <circle class="cls-3" cx="96" cy="125" r="50"/>
+          <circle class="cls-3" cx="96" cy="125" r="41"/>
+          <circle class="cls-3" cx="96" cy="125" r="32"/>
+        </g>
+        <g>
+          <circle class="cls-3" cx="0" cy="125" r="50"/>
+          <circle class="cls-3" cx="0" cy="125" r="41"/>
+          <circle class="cls-3" cx="0" cy="125" r="32"/>
+        </g>
+        <circle class="cls-3" cx="144" cy="150" r="50"/>
+        <circle class="cls-3" cx="48" cy="150" r="50"/>
+        <circle class="cls-3" cx="-48" cy="150" r="50"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect class="cls-2" x="586.3" y="111.15" width="671.07" height="372.99"/>
+</svg>
